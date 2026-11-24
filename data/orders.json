@@ -1,0 +1,7 @@
+{
+  "1042": {"customer_email": "sara@example.com", "item": "Pro plan (annual)", "amount_usd": 120, "days_since_purchase": 21},
+  "1043": {"customer_email": "omar@example.com", "item": "Pro plan (monthly)", "amount_usd": 12, "days_since_purchase": 5},
+  "1044": {"customer_email": "lina@example.com", "item": "Starter plan (annual)", "amount_usd": 60, "days_since_purchase": 14},
+  "1045": {"customer_email": "ali@example.com", "item": "Pro plan (annual)", "amount_usd": 120, "days_since_purchase": 40},
+  "1046": {"customer_email": "maya@example.com", "item": "Starter plan (monthly)", "amount_usd": 6, "days_since_purchase": 2}
+}
